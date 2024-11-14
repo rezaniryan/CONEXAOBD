@@ -1,7 +1,6 @@
 # CONEXAOBD
 
-Codigo dificil, nao cosegui fazer ele ler o banco de dados, aceito opnioes para fazer ele melhorar, tentei de todos os jeitos mas nao atualizava no WampServer, n tenho computador
-estava fazendo nos notebook da faculdade e acabei perdendo por falta de tempo, mas estou entregando o meu mini progresso.
+Codigo dificil, nao cosegui fazer ele ler o banco de dados, aceito criticas para fazer ele melhorar, tentei de todos os jeitos mas nao atualizava no WampServer, n tenho computador estava fazendo nos notebook da faculdade e acabei perdendo por falta de tempo, mas estou entregando o meu mini progresso.
 
 ## 🚀 Começando
 
